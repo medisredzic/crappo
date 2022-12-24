@@ -14,7 +14,7 @@ Timeframe: 5-6 hours
 
 <div align="center">
   <a href="https://github.com/medisredzic/crappo">
-    <img src="img/preview.jpg" alt="Design">
+    <img src="img/preview.png" alt="Design">
   </a>
 </div>
 
